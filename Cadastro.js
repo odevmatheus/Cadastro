@@ -1,1 +1,1 @@
-console.log("Cadastro De Jogos")
+console.log("Cadastro")
